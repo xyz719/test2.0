@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/11/18 15:54:16。
+     1>项目“F:\软件工程与计算2\change_color\change_color\change_color.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\change_color.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\change_color.exe.embed.manifest.res" Debug\change_color_manifest.rc 
+       Link:
+         F:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\软件工程与计算2\change_color\Debug\change_color.exe" /INCREMENTAL /NOLOGO opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\change_color.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\软件工程与计算2\change_color\Debug\change_color.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\软件工程与计算2\change_color\Debug\change_color.lib" /MACHINE:X86 Debug\change_color.exe.embed.manifest.res
+         Debug\change_color.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\change_color.exe.embed.manifest" /manifest Debug\change_color.exe.intermediate.manifest
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\change_color.exe.embed.manifest.res" Debug\change_color_manifest.rc 
+       LinkEmbedManifest:
+         F:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\软件工程与计算2\change_color\Debug\change_color.exe" /INCREMENTAL /NOLOGO opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\change_color.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\软件工程与计算2\change_color\Debug\change_color.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\软件工程与计算2\change_color\Debug\change_color.lib" /MACHINE:X86 Debug\change_color.exe.embed.manifest.res
+         Debug\change_color.obj
+         change_color.vcxproj -> F:\软件工程与计算2\change_color\Debug\change_color.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\change_color.unsuccessfulbuild”。
+         正在对“Debug\change_color.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\软件工程与计算2\change_color\change_color\change_color.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.42
